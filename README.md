@@ -5,4 +5,4 @@ Machine Learning and Data Mining
 
 * Ass 2 - In this homework, we will first explore some aspects of Logistic Regression and performing inference for model parameters. We then turn our attention to gradient based optimisation, the workhorse of modern machine learning methods.
 
-## Final project is in repo : MLB Player Digital Engagement Forecasting
+## Final project is in repo : Digital Engagement Forecasting
